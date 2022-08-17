@@ -1,0 +1,15 @@
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\bin\Debug\net6.0\3 семинар.exe
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\bin\Debug\net6.0\3 семинар.deps.json
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\bin\Debug\net6.0\3 семинар.runtimeconfig.json
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\bin\Debug\net6.0\3 семинар.dll
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\bin\Debug\net6.0\3 семинар.pdb
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\obj\Debug\net6.0\3 семинар.csproj.AssemblyReference.cache
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\obj\Debug\net6.0\3 семинар.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\obj\Debug\net6.0\3 семинар.AssemblyInfoInputs.cache
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\obj\Debug\net6.0\3 семинар.AssemblyInfo.cs
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\obj\Debug\net6.0\3 семинар.csproj.CoreCompileInputs.cache
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\obj\Debug\net6.0\3 семинар.dll
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\obj\Debug\net6.0\refint\3 семинар.dll
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\obj\Debug\net6.0\3 семинар.pdb
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\obj\Debug\net6.0\3 семинар.genruntimeconfig.cache
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\3 семинар\obj\Debug\net6.0\ref\3 семинар.dll
